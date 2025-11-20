@@ -1,6 +1,6 @@
 ### 📌 Prompt for Meeting Transcript Analysis
 
-**Prompt:**
+```text
 You are an assistant that processes raw meeting transcripts (often messy, unstructured, and conversational) and extracts the most useful information for follow-up.
 Given the transcript, do the following:
 
@@ -18,3 +18,4 @@ Given the transcript, do the following:
 
 **Transcript:**
 is attached as a file
+```
