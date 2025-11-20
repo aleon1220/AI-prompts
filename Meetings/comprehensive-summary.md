@@ -1,4 +1,4 @@
-# Powerful comprehensive prompt meetings
+# prompt to generate a comprehensive summary for a meeting transcript
 Please generate detailed meeting minutes. Include the following elements in your output:
 
 * Meeting Title: Provide the title or a concise description of the meeting's purpose.
@@ -21,4 +21,5 @@ Additional Tips:
 
 * If the transcript is long, consider breaking it down into smaller sections to make the summarization process more manageable.
 * Use bullet points and numbered lists to organize information for better readability.
+
 * Proofread your summary carefully to eliminate any errors or inconsistencies.
