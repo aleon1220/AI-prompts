@@ -1,4 +1,9 @@
 # prompt to generate a comprehensive summary for a meeting transcript
+
+<details>
+<summary> comprehensive summary for a meeting transcript 📅📝🧑‍💼🧑‍💻📈 </summary>
+
+```text
 Please generate detailed meeting minutes. Include the following elements in your output:
 
 * Meeting Title: Provide the title or a concise description of the meeting's purpose.
@@ -23,3 +28,5 @@ Additional Tips:
 * Use bullet points and numbered lists to organize information for better readability.
 
 * Proofread your summary carefully to eliminate any errors or inconsistencies.
+```
+</details>

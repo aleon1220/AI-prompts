@@ -4,7 +4,6 @@
 <summary>✅ Prompt for PDF Analysis</summary>
 
 ```text
-
 You are an expert in analyzing technical documentation exported from Confluence in PDF format. The PDF may contain structured content such as headings, tables, bullet points, code snippets, and diagrams.
 
 Your task:
