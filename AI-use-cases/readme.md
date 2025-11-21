@@ -6,7 +6,7 @@ Scope
 
 ## Use Case Structure
 <details>
-<summary> Use Case Title 📝 </summary>
+<summary> Template Use Case Title 📝 </summary>
 
 Short description (1–2 lines)
 
@@ -31,7 +31,7 @@ Short description (1–2 lines)
 <details>
 <summary> Load images and process 📝 </summary>
 
-lLts of images with same name `īmage`, `image(1)`, etc. AI can assign a file name for each image and offer a script to rename the images accordingly.
+lots of images with same name `īmage`, `image(1)`, etc. AI can assign a file name for each image and offer a script to rename the images accordingly.
 
   - Inputs: images attached
   - Outputs: list with suggested filename for the image. Script to rename the images.
@@ -63,6 +63,7 @@ Condense lengthy text into actionable insights.
 </details>
 
 ---
+
 <details>
 <summary> Generate code from specs 💻 </summary>
 
@@ -73,6 +74,7 @@ Convert natural language specifications into executable code.
 - Notes / constraints / ethical considerations: include automated linting & CI checks; ensure security best practices; avoid generating harmful code.
 </details>
 
+---
 <details>
 <summary> Data extraction from forms 🗂️ </summary>
 
@@ -119,10 +121,7 @@ Produce localized and compliant content variations.
 - Notes / constraints / ethical considerations: respect cultural nuances; avoid bias; ensure legal compliance in target regions.
 </details>
 
-
-
-
-
+---
 
 # References / next steps
 - Link to example implementations and test datasets from repo.
