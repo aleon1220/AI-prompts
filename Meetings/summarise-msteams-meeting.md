@@ -1,6 +1,7 @@
 <details>
 <summary> MSTeams Meetings Powerful comprehensive prompt meetings summary MS Teams Meeting based on transcript 👨‍💻 👩‍💻 💻 🖥️ 📊 📈 💡 📢</summary>
-### 
+
+```text
 Please generate detailed meeting minutes. Include the following elements in your output:
 
 * Meeting Title: Provide the title or a concise description of the meeting's purpose.
@@ -43,8 +44,18 @@ Additional Tips:
 * Use bullet points and numbered lists to organize information for better readability.
 * Proofread your summary carefully to eliminate any errors or inconsistencies.
 * Proofread your summary carefully to eliminate any errors or inconsistencies.
+```
+</details>
 
-## MSTeams Chat transcript considerations
+<details>
+<summary>
+MSTeams Chat transcript 
+</summary>
+
+```text
+Please summarise the attached transcript using the best patterns for summaries that you know.
+
+Considerations
 > cases where the chat contains resourceful information
 
 1. What are the key milestones achieved in the project for the client?
@@ -54,4 +65,5 @@ Additional Tips:
 5. What feedback or updates have been provided by the client regarding the project's progress?
 6. What are the significant technical issues encountered, and what solutions were implemented?
 7. What are the upcoming project deadlines or important events that the team should be aware of?
+```
 </details>
