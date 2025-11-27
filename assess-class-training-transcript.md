@@ -1,6 +1,9 @@
 # Summary of a text transcript from a video class
-## Comprehensive Technical Training Session Summary
 
+<details>
+<summary> Comprehensive Technical Training Session Summary 📝 </summary>
+
+```text
 You are an expert technical educator summarizing a recorded training session for software engineers. Please analyze the provided session transcript and create a comprehensive, structured summary optimized for technical professionals.
 
 ## Instructions:
@@ -36,3 +39,6 @@ Provide 4-6 concrete, actionable steps for software engineers to:
 
 ### 8. **Additional Resources**
 Note any documentation, repositories, further reading, or follow-up sessions mentioned.
+```
+
+</details>

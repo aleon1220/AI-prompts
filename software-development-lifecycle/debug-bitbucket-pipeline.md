@@ -1,4 +1,5 @@
 ## Debugging Bitbucket
+```text
 Analyze the following Bitbucket pipeline execution log. Perform a thorough analysis of the Bitbucket pipeline execution log, covering various aspects such as execution status, errors, performance, and potential improvements.
 
 Please provide a comprehensive assessment of the log, including:
@@ -14,4 +15,5 @@ Please provide a comprehensive assessment of the log, including:
 
 Additionally, please highlight any critical issues that may require immediate attention and provide a brief summary of the key findings from the log analysis.
 
-The log output is below:
+The log output is attached as a text file.
+```

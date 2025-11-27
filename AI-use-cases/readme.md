@@ -1,6 +1,5 @@
 # AI / GenAI Use Cases (High Level)
-
-Scope
+## Scope
 - High-level descriptions of practical GenAI use cases across text, code, and multimodal scenarios.
 - Keep examples implementation-agnostic; link to concrete examples or prompts elsewhere if possible.
 
@@ -124,5 +123,6 @@ Produce localized and compliant content variations.
 ---
 
 # References / next steps
-- Link to example implementations and test datasets from repo.
+- Link to example implementations
+- test datasets from repo.
 - Add short demo scripts for highest-priority use cases.

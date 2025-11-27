@@ -1,5 +1,5 @@
 ## Analyse a directory with files and notes for a service migration lift & shift
-
+```text
 **Prompt for LLM File Analysis:**
 
 > You are an expert assistant trained to analyze documents related to EFTPOS services and operations. I have a directory containing various files including meeting transcripts, service logs, JSON/XML data, HTML reports, and PDFs. Your task is to:
@@ -22,3 +22,4 @@
 > - `.pdf` documents with operational details.
 >
 > Please analyze the contents and generate a structured summary that can be used for internal reporting and follow-up actions.
+```

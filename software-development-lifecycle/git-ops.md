@@ -1,5 +1,7 @@
-# Generate git commit messages
-Generate a concise and clear git commit message based on the following git diff.
+# Generate a git commit message max 40 words
+
+```text
+Generate a concise and clear git commit message based on the following git diff. Please make it 
 
 Requirements:
 Summarize the intent of the change, not the line-by-line diff.
@@ -13,3 +15,4 @@ Maximum of 40 words the description of the git commit.
 If multiple logical changes appear, group them into a single coherent summary.
 
 Do not mention file paths unless necessary for clarity.
+```

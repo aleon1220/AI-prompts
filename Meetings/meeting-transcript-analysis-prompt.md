@@ -17,5 +17,5 @@ Given the transcript, do the following:
 7. **Suggested Follow-up Communication** – Draft a short follow-up email or Teams post summarizing key points, assigned actions, and next steps.
 
 **Transcript:**
-is attached as a file
+attached as a file
 ```

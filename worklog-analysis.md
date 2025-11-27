@@ -1,4 +1,17 @@
 # 📌 Master Prompt for Markdown Worklog Analysis
+1. habit of tracking notes daily
+2. merge all files into a single markdown file
+3. use any AI model from work or personal to assess the markdown file
+4. take some action items during reflection time.
+
+<details>
+<summary> Worklog Assessment & Analysis 📝 </summary>
+
+```text
+TODO content
+```
+
+</details>
 >Prompt to AI - provide the consolidated Markdown file
 
 Please run the following instruction with the highest quality of excellence aiming for a one shot excellent answer:
