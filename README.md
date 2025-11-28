@@ -5,12 +5,16 @@ This repository is intended to store markdown prompt files for different project
 ## Template to use
 
 ```html
+<!-- expand sections HTML in markdown -->
+ 
 <details>
 <summary> TODO Prompt Title 📝 </summary>
 
 ```text
 TODO content
 ```
-
 </details>
+
+<!-- End of reusable snippet -->
+
 ```
