@@ -1,9 +1,12 @@
-# Summary of a text transcript from a video class
+# Summary of a class
+please summarize the session script below. It was recorded as a training session for an education program.
 
-<details>
-<summary> Comprehensive Technical Training Session Summary 📝 </summary>
+## Summary of a text transcript from a video class
+please create ancomprehensive and detailed summary for the video script. Structure it with an introduction, main ideas, main takeaways in a numbered list, and a suggested "What's Next" section with actionable items.
 
-```text
+# Comprehensive Technical Training Session Summary
+optimized AWS bedrock claude 2025-09-13 
+
 You are an expert technical educator summarizing a recorded training session for software engineers. Please analyze the provided session transcript and create a comprehensive, structured summary optimized for technical professionals.
 
 ## Instructions:
@@ -39,6 +42,3 @@ Provide 4-6 concrete, actionable steps for software engineers to:
 
 ### 8. **Additional Resources**
 Note any documentation, repositories, further reading, or follow-up sessions mentioned.
-```
-
-</details>
