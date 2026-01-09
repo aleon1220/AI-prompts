@@ -12,11 +12,6 @@ Include the following elements in your output:
 - Action Items:  Identify and list any specific action items that emerged from the meeting. For each action item, specify the person responsible for completing it and the deadline, if mentioned.
 - Next Steps:  If there were any discussions or decisions about the next steps to be taken after the meeting, summarize them concisely.
 
-Chat Highlights:
-
-- Other Notes:  Include any additional information or important details that were discussed during the meeting but don't fit into the above categories.
-- Attendees: List meeting participants, identify their roles or affiliations. Only if speaker mentions them.
-
 Important Considerations:
 
 - you are using a transcript from a MSTeams call
@@ -30,6 +25,13 @@ Additional Tips:
 - If the transcript is long, consider breaking it down into smaller sections to make the summarization process more manageable.
 - Use bullet points and numbered lists to organize information for better readability.
 - Proofread your summary carefully to eliminate any errors or inconsistencies.
+
+Wrap up section:
+Add a section that makes emphasis on action items explicitly and implicitly mentioned. Suggest next steps and prioritise
+
+Appendix section Chat Highlights:
+- Other Notes:  Include any additional information or important details that were discussed during the meeting but don't fit into the above categories.
+- Attendees: if names are mentioned, list meeting participants, identify their roles or affiliations.
 ```
 </details>
 
