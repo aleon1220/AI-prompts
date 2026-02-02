@@ -2,7 +2,9 @@
 <summary> Meetings Text Transcripts 📝 </summary>
 
 ```text
-Summarize the key points and actions from the provided meeting transcript in a clear and concise manner. Structure the summary as follows:
+Please Summarize the key points and actions from the provided meeting transcript in a clear and concise manner
+
+Structure the summary as follows:
 
 1. Introduction paragraph briefly describing the meeting context
 
