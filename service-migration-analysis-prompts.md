@@ -22,4 +22,4 @@
 > - `.pdf` documents with operational details.
 >
 > Please analyze the contents and generate a structured summary that can be used for internal reporting and follow-up actions.
-```
+``` 
