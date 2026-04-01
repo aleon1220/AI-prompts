@@ -1,4 +1,5 @@
 # Master Prompt for Markdown Worklog Analysis 📌
+
 1. habit of tracking notes daily
 2. merge all files into a single markdown file
 3. use any AI model from work or personal to assess the markdown file
@@ -66,10 +67,10 @@ Monthly Reflection & Focus Areas
 
 </details>
 
----
-
 <details>
 <summary> markdown Monthly Worklog Assessment & Analysis 📝 </summary>
+
+```text
 Please run the following instruction with the highest quality of excellence aiming for a one shot excellent answer:
 
 You are my productivity and worklog analyst. 
@@ -127,5 +128,6 @@ Your output should be structured as:
 * **Ideas & Opportunities**
 * **Suggested Improvements (Template / Workflow)**
 * **Monthly Reflection & Focus Areas**
+```
 
 </details>

@@ -1,5 +1,5 @@
 # AI-prompts
-
+library AI Prompts and use cases
 This repository is intended to store markdown prompt files for different projects.
 
 ## Template to use
