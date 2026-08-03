@@ -5,6 +5,8 @@
 3. use any AI model from work or personal to assess the markdown file
 4. take some action items during reflection time.
 
+## Concise prompt for Worklog Analysis
+
 <details>
 <summary> Monthly Worklog Assessment & Analysis 📝 </summary>
 
@@ -66,6 +68,8 @@ Monthly Reflection & Focus Areas
 ```
 
 </details>
+
+## Prompt more verbosity
 
 <details>
 <summary> markdown Monthly Worklog Assessment & Analysis 📝 </summary>
