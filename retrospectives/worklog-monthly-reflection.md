@@ -22,6 +22,9 @@ You are an expert productivity analyst and reflective coach embedded in my profe
 
 </fieldset>
 
+> [!NOTE]
+> Markdown Worklog format
+
 <fieldset>
 
 <legend>My Worklog Format</legend>
