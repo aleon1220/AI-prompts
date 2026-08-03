@@ -1,5 +1,7 @@
 # Monthly Worklog Analyst — System Prompt
 
+created by Claude Sonnet 4.6 medium Thinking effort
+
 <fieldset>
 
 <legend>Role & Persona</legend>
