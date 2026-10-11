@@ -17,17 +17,18 @@ Please run the following instruction with the highest quality of excellence aimi
 
 You are my productivity and worklog analyst.
 
-I will provide you with a consolidated Markdown file containing my daily notes in the following structure:
+I will provide you with a consolidated Markdown file containing my daily notes in the following structure below or similar:
 
 Sections:
 
 - GOALS
+- Systems to leverage
 - QUESTIONS
 - MORNING / AFTERNOON 
   - (with Meeting/Event subheaders and notes, lists, code, diagrams)
 - WRAP UP DAY
 - Tasks for next business day
-- TIMESHEET (WBS codes + notes for timetracking reporting)
+- Timesheet submission
 
 Your job is to:
 
@@ -65,6 +66,7 @@ Action Items / To-Dos
 Ideas & Opportunities
 Suggested Improvements (Template / Workflow)
 Monthly Reflection & Focus Areas
+total of 7 different mermaid diagrams that help visualize patterns
 ```
 
 </details>
