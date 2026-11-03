@@ -1,9 +1,29 @@
 # AI / GenAI Use Cases (High Level)
 
+> **Domain:** 5. AI Strategy, Session Ops & Use Cases | **Category:** `ai-use-cases` | **Parent Catalog:** [`../CATALOG.md`](../CATALOG.md)
+
 ## Scope
 
 - High-level descriptions of practical GenAI use cases across text, code, and multimodal scenarios.
 - Keep examples implementation-agnostic; link to concrete examples or prompts elsewhere if possible.
+
+---
+
+## ⚡ Category Inventory & Concrete Prompt Mapping
+
+| Asset / Use Case | Modality | Tier / Type | Concrete Implementation / Link |
+| :--- | :--- | :--- | :--- |
+| **[`extract-ai-chat-achievements-todos.md`](./extract-ai-chat-achievements-todos.md)** | Text / Code Session | `🟣 System` Prompt | Ready-to-run **Universal AI Session Audit & Hand-Off Prompt** |
+| **Load images and process 📝** *(below)* | Multimodal / Image | Blueprint | Batch image naming + rename script generation for `draw.io` workflows |
+| **Analyze diagram from an image 🖼️** *(below)* | Multimodal / Vision | Blueprint | Related: [`../pdfs/pdf-ops.md`](../pdfs/pdf-ops.md) (Confluence diagrams & tables) |
+| **Summarize long documents 📄** *(below)* | Text / Document | Blueprint | Implemented in [`../pdfs/pdf-ops.md`](../pdfs/pdf-ops.md), [`../policies/`](../policies/), [`../content-summarization/`](../content-summarization/), [`../meetings/`](../meetings/) |
+| **Generate code from specs 💻** *(below)* | Code | Blueprint | Related SDLC workflows: [`../software-development-lifecycle/`](../software-development-lifecycle/) |
+| **Data extraction from forms 🗂️** *(below)* | Multimodal / OCR | Blueprint | Related structured extraction: [`../pdfs/pdf-ops.md`](../pdfs/pdf-ops.md), [`../software-development-lifecycle/service-migration-analysis-prompts.md`](../software-development-lifecycle/service-migration-analysis-prompts.md) |
+| **Conversational assistant for domain knowledge 💬** *(below)* | Text / RAG | Blueprint | Related Q&A & coaching: [`../chat-analysis/`](../chat-analysis/), [`../retrospectives/worklog-monthly-reflection.md`](../retrospectives/worklog-monthly-reflection.md) |
+| **Test-case generation & fuzzing 🧪** *(below)* | Code / QA | Blueprint | Related CI/CD diagnostics: [`../software-development-lifecycle/debug-bitbucket-pipeline.md`](../software-development-lifecycle/debug-bitbucket-pipeline.md) |
+| **Content generation & localization 🌍** *(below)* | Text | Blueprint | Related content workflows: [`../content-summarization/`](../content-summarization/) |
+
+---
 
 ## Use Case Structure
 
@@ -21,7 +41,7 @@ Short description (1–2 lines)
 
 ## How to add a new use case
 
-- Create a new Markdown file named with the use-case slug.
+- Create a new Markdown file named with the use-case slug (or copy [`../templates/use-case-template.md`](../templates/use-case-template.md)).
 - Follow the Structure section above.
 - Add tags for modality (text/image/code), maturity, and estimated infra needs.
 
@@ -134,6 +154,6 @@ Produce localized and compliant content variations.
 
 # References / next steps
 
-- Link to example implementations
+- Link to example implementations: See the [Concrete Prompt Mapping table](#️-category-inventory--concrete-prompt-mapping) above and [`../CATALOG.md`](../CATALOG.md).
 - test datasets from repo.
 - Add short demo scripts for highest-priority use cases.

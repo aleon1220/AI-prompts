@@ -1,4 +1,10 @@
 # Git Assistance
+
+> **Domain:** 1. Engineering, SDLC & Operations | **Category:** `software-development-lifecycle` | **Tier:** 🔵 Structured / 🟢 Quick  
+> **Use When:** Generating clean, 50/72-compliant Git commit messages from `git diff` (with optional Jira `D09-*` key extraction and config file exclusions).  
+> **Input:** `git diff` output | **Output:** Plain-text Git commit message (≤50-char subject + wrapped numbered body)  
+> **Target / Tested With:** Any LLM · See also [`git-ops.md`](./git-ops.md) for ultra-short (<40 words) commits
+
 during software development a commit message should be concise and give a helpful overview of the changes.
 ```bash
 git diff | clip.exe
@@ -10,6 +16,8 @@ git diff | clip.exe
 
 <details>
 <summary> General git commit message 📝 </summary>
+
+```text
 Act as a software engineer. Generate a clean Git commit message based on the provided changes/diff. Format the output inside a single plain text code block for easy copying.
 
 Formatting Rules:

@@ -1,5 +1,10 @@
 # Master Prompt for Markdown Worklog Analysis 📌
 
+> **Domain:** 3. Productivity, Task Management & Retrospectives | **Category:** `retrospectives` | **Tier:** 🔵 Structured  
+> **Use When:** Analyzing a consolidated monthly Markdown worklog with modern productivity lenses (Atomic Habits, PARA, Zettelkasten, GTD, Deep Work), either with **7 Mermaid visualizations** (Variant 1) or clean prose/bullets (Variant 2).  
+> **Input:** Consolidated monthly Markdown worklog file | **Output:** 6-section productivity & reflection report (+ 7 Mermaid diagrams in Variant 1)  
+> **Target / Tested With:** Any LLM · See also [`worklog-monthly-reflection.md`](./worklog-monthly-reflection.md) for the 10-section `<fieldset>` System Prompt
+
 1. habit of tracking notes daily
 2. merge all files into a single markdown file
 3. use any AI model from work or personal to assess the markdown file

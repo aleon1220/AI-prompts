@@ -1,5 +1,10 @@
 # Summary of a text transcript from a video class
 
+> **Domain:** 4. Content, Document & Learning Intelligence | **Category:** `training-and-learning` | **Tier:** 🔵 Structured  
+> **Use When:** Summarizing a recorded software engineering training session into an 8-part technical study guide (covering prerequisites, concepts, code demonstrations, tools, and 4–6 hands-on action items).  
+> **Input:** Recorded technical class / training session transcript | **Output:** 8-section structured engineering summary  
+> **Target / Tested With:** Any LLM · See also [`prompts-transcript-training-videos.md`](./prompts-transcript-training-videos.md)
+
 <details>
 <summary> Comprehensive Technical Training Session Summary 📝 </summary>
 

@@ -1,3 +1,13 @@
+# Detailed Meeting Minutes (with Chat Highlights & Attendance Ratio)
+
+> **Domain:** 2. Meetings, Collaboration & Communications | **Category:** `meetings` | **Tier:** 🔵 Structured  
+> **Use When:** Generating standard meeting minutes that also capture Chat Highlights and Attended vs. Invited headcount.  
+> **Input:** Meeting transcript + invite/chat metadata | **Output:** Detailed minutes (Title, Date/Time, Agenda, Actions, Next Steps, Chat Highlights, Notes, Attendance count)  
+> **Target / Tested With:** Any LLM · Compare with [`comprehensive-summary.md`](./comprehensive-summary.md)
+
+<details>
+<summary>📝 Detailed Meeting Minutes Prompt (with Chat & Attendance Ratio)</summary>
+
 ```text
 Please generate detailed meeting minutes. Include the following elements in your output:
 
@@ -24,3 +34,5 @@ Additional Tips:
 
 * Proofread your summary carefully to eliminate any errors or inconsistencies.
 ```
+
+</details>

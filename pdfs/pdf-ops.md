@@ -1,5 +1,10 @@
 # Structured PDF Intelligence Summarizer
 
+> **Domain:** 4. Content, Document & Learning Intelligence | **Category:** `pdfs` | **Tier:** 🔵 Structured  
+> **Use When:** Analyzing technical documentation exported from Confluence as a PDF (containing headings, tables, code snippets, and diagrams) to extract structured sections, JSON/Markdown tables, action items, and open ambiguities.  
+> **Input:** Technical PDF / Confluence PDF export | **Output:** Title, ≤200-word summary, organized sections, JSON/Markdown tables, action items, and clarification questions  
+> **Target / Tested With:** Any multimodal / document-capable LLM
+
 <details>
 <summary>✅ Prompt for PDF Analysis</summary>
 

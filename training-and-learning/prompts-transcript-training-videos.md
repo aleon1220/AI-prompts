@@ -1,3 +1,10 @@
+# Training Session Summary Prompt Suite (Progressive Detail)
+
+> **Domain:** 4. Content, Document & Learning Intelligence | **Category:** `training-and-learning` | **Tier:** 🔵 Structured  
+> **Use When:** Choosing between (or combining) a 1-line education session summary, a 4-part video script summary, and the full 8-section Technical Educator summary.  
+> **Input:** Recorded class / training video script | **Output:** Progressive or 8-section technical training summary  
+> **Target / Tested With:** AWS Bedrock Claude (`2025-09-13`) / Any LLM · Standalone 8-part version: [`assess-class-training-transcript.md`](./assess-class-training-transcript.md)
+
 <details>
 <summary>Training Session Summary Prompt 💻 🖥️ 📊 📈 💡 📢 📝 👨‍💻 🚀 🧠</summary>
 optimized AWS bedrock claude 2025-09-13 
@@ -18,7 +25,7 @@ Analyze the training session transcript below and produce a detailed summary wit
 Provide a concise overview of the session's core purpose, target audience, and primary learning objectives.
 
 2. Session Overview
-- Topic/Technology Covered: 
+- Topic/Technology Covered: 
 - Session Duration/Scope:
 - Prerequisites Mentioned:
 - Target Skill Level:

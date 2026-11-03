@@ -1,3 +1,10 @@
+# Privacy Policy Concise Summary & Trust Evaluation
+
+> **Domain:** 4. Content, Document & Learning Intelligence | **Category:** `policies` | **Tier:** 🟢 Quick  
+> **Use When:** Reviewing a privacy policy to summarize data collection/use/storage/sharing/protection, evaluate clarity and transparency, flag ambiguities, and list key takeaways in bullets.  
+> **Input:** Privacy policy text | **Output:** Concise evaluation + improvement suggestions + bulleted key details  
+> **Target / Tested With:** Any LLM · Companion variant: [`summarise-privacy-policy.md`](./summarise-privacy-policy.md)
+
 <details>
 <summary> Summarize and assess a privacy policy 📅📝🧑‍💼🧑‍💻📈 </summary>
 

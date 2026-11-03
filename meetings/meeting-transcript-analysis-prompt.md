@@ -1,4 +1,14 @@
+# Meeting Transcript Analysis with Tone Dynamics & Follow-Up Draft
+
+> **Domain:** 2. Meetings, Collaboration & Communications | **Category:** `meetings` | **Tier:** 🔵 Structured  
+> **Use When:** You need participant tone/dynamics analysis (with direct quotes and tone shifts) and a ready-to-send follow-up email or MS Teams post alongside standard decisions and action items.  
+> **Input:** Raw meeting transcript attached as a file | **Output:** 7-part analysis (Summary, Decisions, Action Items, Risks, Stakeholders, Tone & Team Dynamics, Suggested Follow-up Email/Post)  
+> **Target / Tested With:** Any LLM
+
 ### 📌 Prompt for Meeting Transcript Analysis
+
+<details>
+<summary>🎭 Meeting Transcript Analysis + Participant Tone & Follow-Up Draft</summary>
 
 ```text
 You are an assistant that processes raw meeting transcripts (often messy, unstructured, and conversational) and extracts the most useful information for follow-up.
@@ -19,3 +29,5 @@ Given the Transcript, do the following:
 Transcript:
 attached as a file
 ```
+
+</details>

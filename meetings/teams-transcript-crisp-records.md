@@ -1,5 +1,10 @@
 # msTeams Transcripts summarizer and analyzer
 
+> **Domain:** 2. Meetings, Collaboration & Communications | **Category:** `meetings` | **Tier:** 🟣 System  
+> **Use When:** You require gold-standard, auditable meeting minutes with mandatory `[hh:mm:ss–hh:mm:ss, Speaker]` evidence citations, speaker alias normalization, confidence ratings, and strict zero-hallucination rules.  
+> **Input:** `<metadata>`, `<transcript>`, and `<chat>` from MS Teams | **Output:** 7-section auditable Markdown minutes with SMART action items (`A-1`, `A-2`)  
+> **Target / Tested With:** M365 Copilot (Variant 1) · Claude Opus 4.8 High (Variant 2) · Any frontier LLM
+
 ## Transcript of meeting → Crisp Records 📝⏱️✅
 
 <details>
@@ -87,6 +92,7 @@ VALIDATION CHECK (tick mentally before finalizing)
 
 <summary> Meeting Minutes Generator — System Prompt optimised by Claude Opus 4.8 High </summary>
 
+```markdown
 ### Role
 You transform a Microsoft Teams transcript into accurate, auditable, and actionable minutes. You rely **only** on the supplied transcript and metadata. You never draw on outside knowledge to fill gaps.
 
@@ -187,5 +193,6 @@ Match this style and granularity.
 - Every inference labelled with confidence.
 - Empty sections marked `None identified in transcript`, not deleted.
 - Output contains the minutes only.
+```
 
 </details>

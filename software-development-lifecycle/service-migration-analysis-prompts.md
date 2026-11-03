@@ -1,4 +1,15 @@
+# Service Migration Lift & Shift Multi-File Analysis
+
+> **Domain:** 1. Engineering, SDLC & Operations | **Category:** `software-development-lifecycle` | **Tier:** 🔵 Structured  
+> **Use When:** Auditing a directory of heterogeneous migration artifacts (meeting notes, EFTPOS/service logs, JSON/XML payloads, HTML reports, PDFs) to reconcile technical status and discrepancies.  
+> **Input:** Directory of `.docx`, `.txt`, `.json`, `.xml`, `.html`, and `.pdf` files | **Output:** Consolidated migration report (timeline, stakeholders, technical issues, discrepancies, next steps)  
+> **Target / Tested With:** Any long-context LLM / NotebookLM / M365 Copilot
+
 ## Analyse a directory with files and notes for a service migration lift & shift
+
+<details>
+<summary>🗂️ Multi-File Service Migration & EFTPOS Log Discrepancy Analyzer</summary>
+
 ```text
 **Prompt for LLM File Analysis:**
 
@@ -23,3 +34,5 @@
 >
 > Please analyze the contents and generate a structured summary that can be used for internal reporting and follow-up actions.
 ``` 
+
+</details>

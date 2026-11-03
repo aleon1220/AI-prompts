@@ -1,4 +1,12 @@
-📋 Universal AI Session Audit & Hand-Off Prompt
+# 📋 Universal AI Session Audit & Hand-Off Prompt
+
+> **Domain:** 5. AI Strategy, Session Ops & Use Cases | **Category:** `ai-use-cases` | **Tier:** 🟣 System  
+> **Use When:** Wrapping up a long AI brainstorming, coding, architecture, or troubleshooting session to extract completed achievements, `[Explicit]` vs. `[Implicit]` pending tasks, blind spots, and a ready-to-paste context hand-off block for the next session.  
+> **Input:** Current AI chat conversation history (or attached chat transcript) | **Output:** Executive summary, numbered achievements, prioritized `[Explicit]`/`[Implicit]` backlog table, unaddressed blind spots, and blockquote hand-off prompt  
+> **Target / Tested With:** Gemini, Claude, GPT-4o, or any conversational coding/reasoning assistant
+
+<details>
+<summary>📋 Universal AI Session Audit & Hand-Off Prompt (Click to expand & copy)</summary>
 
 ```text
 Role & Persona:
@@ -48,3 +56,5 @@ Output Constraints & Guardrails:
 🔄 Context Hand-Off (Ready-to-Paste Prompt for Next Session)
 > [Generate a compact, 1-paragraph summary of our current state and immediate next objective inside a blockquote so I can copy-paste it into a fresh Gemini or Claude chat to continue work immediately without losing context.]
 ```
+
+</details>

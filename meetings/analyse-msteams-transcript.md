@@ -1,5 +1,10 @@
 # Objective Meeting Transcript Summarizer with Action Items and Next Steps
 
+> **Domain:** 2. Meetings, Collaboration & Communications | **Category:** `meetings` | **Tier:** 🔵 Structured  
+> **Use When:** You want an action-first meeting summary with a prioritized Markdown table (`High/Medium/Low`) right after the Executive Summary, or an agenda-based follow-up planner.  
+> **Input:** MS Teams meeting transcript | **Output:** Executive summary + Prioritized Action Table + Agenda breakdown + Strategic Wrap-Up  
+> **Target / Tested With:** Gemini 1.5 Pro / Any LLM · See [`README.md`](./README.md) to compare all 8 meeting files
+
 ## Summariser with emphasis action-items and prioritised
 
 <details>

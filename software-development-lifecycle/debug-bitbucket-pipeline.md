@@ -1,4 +1,15 @@
+# Bitbucket Pipeline Execution Log Analyzer
+
+> **Domain:** 1. Engineering, SDLC & Operations | **Category:** `software-development-lifecycle` | **Tier:** 🔵 Structured  
+> **Use When:** Diagnosing a failed, flaky, or slow Bitbucket CI/CD pipeline execution from its raw text log.  
+> **Input:** Bitbucket pipeline execution log attached as `.txt` | **Output:** 8-section diagnostic & optimization assessment  
+> **Target / Tested With:** Any LLM · Cross-listed in [`../troubleshooting-debugging/readme.md`](../troubleshooting-debugging/readme.md)
+
 ## Debugging Bitbucket
+
+<details>
+<summary>🛠️ Comprehensive Bitbucket Pipeline Log Analysis Prompt</summary>
+
 ```text
 Analyze the following Bitbucket pipeline execution log. Perform a thorough analysis of the Bitbucket pipeline execution log, covering various aspects such as execution status, errors, performance, and potential improvements.
 
@@ -17,3 +28,5 @@ Additionally, please highlight any critical issues that may require immediate at
 
 The log output is attached as a text file.
 ```
+
+</details>

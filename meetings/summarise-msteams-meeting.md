@@ -1,3 +1,10 @@
+# MS Teams Meeting Minutes & Project Chat Summarizer
+
+> **Domain:** 2. Meetings, Collaboration & Communications | **Category:** `meetings` | **Tier:** 🔵 Structured / 🟢 Quick  
+> **Use When:** Summarizing either a full MS Teams call transcript (with explicit/implicit action item prioritization) OR a resourceful MS Teams project chat log using 7 structured delivery questions.  
+> **Input:** MS Teams call transcript or MS Teams chat transcript | **Output:** Detailed meeting minutes OR 7-question project milestone/issue breakdown  
+> **Target / Tested With:** MS Teams / Any LLM · See also [`../chat-analysis/chat-transcription.md`](../chat-analysis/chat-transcription.md)
+
 <details>
 <summary> MSTeams Meetings transcript comprehensive prompt minutes 👨‍💻 👩‍💻 💻 🖥️ 📊 📈 💡 📢</summary>
 

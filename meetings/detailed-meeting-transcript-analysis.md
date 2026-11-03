@@ -1,5 +1,10 @@
 # Detailed Meeting Transcript Analysis and Structured Minutes Generation
 
+> **Domain:** 2. Meetings, Collaboration & Communications | **Category:** `meetings` | **Tier:** 🟣 System  
+> **Use When:** Producing auditable MS Teams meeting documentation with `[hh:mm:ss, Speaker]` evidence citations, SMART action IDs (`A-1`), ISO 8601 dates, and Confidence Levels (`High/Medium/Low`).  
+> **Input:** MS Teams transcript | **Output:** 7-section auditable minutes with SMART action items & timestamp evidence  
+> **Target / Tested With:** Azure AI Foundry GPT-4o / Any LLM · See also [`teams-transcript-crisp-records.md`](./teams-transcript-crisp-records.md)
+
 <details>
 <summary> MSTeams Meeting Transcript Analysis and Structured Minutes Generation by Azure Foundry agent GPT-4o</summary>
 

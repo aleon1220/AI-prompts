@@ -1,3 +1,10 @@
+# Quick 4-Part Meeting Transcript Summary
+
+> **Domain:** 2. Meetings, Collaboration & Communications | **Category:** `meetings` | **Tier:** 🟢 Quick  
+> **Use When:** You want a fast, readable 3-paragraph + bullet summary of a meeting transcript with an appendix of shared links and files.  
+> **Input:** Meeting text transcript | **Output:** Intro paragraph, bulleted topics/decisions/actions, concluding paragraph, shared links/files appendix  
+> **Target / Tested With:** Any LLM
+
 <details>
 <summary> Meetings Text Transcripts 📝 </summary>
 

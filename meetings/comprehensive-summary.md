@@ -1,5 +1,10 @@
 # prompt to generate a comprehensive summary for a meeting transcript
 
+> **Domain:** 2. Meetings, Collaboration & Communications | **Category:** `meetings` | **Tier:** 🔵 Structured  
+> **Use When:** Generating standard, readable meeting minutes with explicit speaker/role identification when mentioned in the transcript.  
+> **Input:** Meeting transcript | **Output:** Structured minutes (Title, Date/Time, Agenda, Actions, Next Steps, Notes, Speakers)  
+> **Target / Tested With:** Any LLM · Compare with [`detailed-meeting-minutes.md`](./detailed-meeting-minutes.md) (adds Chat & Attendance ratio)
+
 <details>
 <summary> comprehensive summary for a meeting transcript 📅📝🧑‍💼🧑‍💻📈 </summary>
 
