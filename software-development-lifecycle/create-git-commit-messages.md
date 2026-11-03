@@ -18,22 +18,48 @@ git diff | clip.exe
 <summary> General git commit message 📝 </summary>
 
 ```text
-Act as a software engineer. Generate a clean Git commit message based on the provided changes/diff. Format the output inside a single plain text code block for easy copying.
+Act as a software engineer. Generate a clean, concise Git commit message
+based on the provided changes/diff.
 
-Formatting Rules:
-1. Subject Line:
-   - Imperative mood (e.g., "Add", "Fix", "Update", "Refactor").
-   - Capitalized, no ending punctuation.
-   - Maximum 50 characters (concise summary of the primary change).
+Output only the commit message inside a single plain-text code block
+for easy copying.
 
-2. Blank Line:
+Formatting rules (strictly enforced):
+
+1) Subject line
+   - Use imperative mood (e.g., "Add", "Fix", "Update", "Refactor").
+   - Capitalize first word, no ending punctuation.
+   - Maximum 50 characters.
+   - Summarize the primary change only.
+
+2) Separation
    - Exactly one blank line between the subject line and the body.
 
-3. Body:
-   - Explain the "what" and "why" behind the changes, not the "how".
+3) Body structure (total body <= 75 words)
+   - First line: an **executive summary** (one sentence, <= 15 words)
+     that states the primary impact or rationale.
+   - Follow with **up to 3 concise bullet points** (use markdown dashes `-`)
+     summarizing key changes or effects. Each bullet: one short sentence,
+     aim for 6–12 words.
+   - Explain **what** changed and **why** — do not describe implementation details.
    - Hard wrap all lines at 72 characters.
-   - Use a markdown numbered list to summarize key changes if multiple logical updates exist.
-   - Keep the entire commit message focused and under 75 words total.
+
+4) Tone & style
+   - Clear, factual, and terse. Avoid filler words.
+   - Use active voice and present/imperative tense.
+   - Do not include issue tracker metadata unless explicitly requested.
+
+Example desired output format:
+
+Subject line within 50 chars
+
+Executive summary sentence (<= 15 words)
+
+* Bullet one (concise)
+* Bullet two (concise)
+* Bullet three (concise)
+
+When given a diff, produce the commit message that best follows the above rules.
 ```
 
 </details>
