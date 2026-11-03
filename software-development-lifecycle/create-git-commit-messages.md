@@ -41,7 +41,6 @@ Format and style:
 
 Example:
 
-```text
 Fix failed login handling
 
 Improve reliability and clarify errors for users.
@@ -103,6 +102,7 @@ Executive summary sentence (<= 15 words)
 * Bullet three (concise)
 
 When given a diff, produce the commit message that best follows the above rules.
+
 ```
 
 </details>
