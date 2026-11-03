@@ -3,6 +3,33 @@ during software development a commit message should be concise and give a helpfu
 ```bash
 git diff | clip.exe
 ```
+
+### General git commit message
+
+* enforces a short subject plus a focused body explaining intent rather than implementation.
+
+<details>
+<summary> General git commit message 📝 </summary>
+Act as a software engineer. Generate a clean Git commit message based on the provided changes/diff. Format the output inside a single plain text code block for easy copying.
+
+Formatting Rules:
+1. Subject Line:
+   - Imperative mood (e.g., "Add", "Fix", "Update", "Refactor").
+   - Capitalized, no ending punctuation.
+   - Maximum 50 characters (concise summary of the primary change).
+
+2. Blank Line:
+   - Exactly one blank line between the subject line and the body.
+
+3. Body:
+   - Explain the "what" and "why" behind the changes, not the "how".
+   - Hard wrap all lines at 72 characters.
+   - Use a markdown numbered list to summarize key changes if multiple logical updates exist.
+   - Keep the entire commit message focused and under 75 words total.
+```
+
+</details>
+
 ### SDLC git concise commit message
 
 <details>
