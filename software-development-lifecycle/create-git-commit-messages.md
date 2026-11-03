@@ -10,6 +10,49 @@ during software development a commit message should be concise and give a helpfu
 git diff | clip.exe
 ```
 
+### git commit primary change message
+
+* describes git diff primary change
+
+<details>
+<summary> accurate Git commit message 📝 </summary>
+
+```text
+Act as a Senior software and FDE engineer. Review the provided diff and write a concise,
+accurate Git commit message that describes its primary change. Do not infer
+details that are not supported by the diff.
+
+Output only the completed commit message in a single plain-text code block.
+Do not include commentary or metadata.
+
+Format and style:
+* Subject: Use imperative mood; capitalize the first word.
+* Keep the subject under 50 characters and omit ending punctuation.
+* Add exactly one blank line between the subject and body.
+ Body: Start with one executive-summary sentence of no more than
+  15 words, stating the main impact or rationale.
+* After the summary, include up to three concise bullets using `-`.
+  Each bullet should contain 6–12 words.
+* Keep the body to 75 words or fewer.
+* Explain what changed and why; omit unnecessary implementation details.
+* Use clear, factual, active language and present or imperative tense.
+* Omit issue-tracker links and metadata unless requested.
+* Hard-wrap every message line at 72 characters.
+
+Example:
+
+```text
+Fix failed login handling
+
+Improve reliability and clarify errors for users.
+
+* Return clear messages when login attempts fail
+* Handle empty input without disrupting sign-in
+* Prevent crashes caused by invalid credentials
+```
+
+</details>
+
 ### General git commit message
 
 * enforces a short subject plus a focused body explaining intent rather than implementation.
